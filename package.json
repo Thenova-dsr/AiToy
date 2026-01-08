@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@react-native/new-app-screen": "0.83.1",
+    "buffer": "^6.0.3",
     "react": "19.2.0",
     "react-native": "0.83.1",
-    "react-native-ble-plx": "^3.2.1",
+    "react-native-ble-plx": "^3.5.0",
     "react-native-safe-area-context": "^5.5.2",
-    "react-native-vision-camera": "^4.0.0",
-    "buffer": "^6.0.3"
+    "react-native-vision-camera": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
